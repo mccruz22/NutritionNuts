@@ -24,5 +24,9 @@ This desktop application uses pyqt. Install `pyqt6` (for pip, pip install pyqt6)
 
 We employed different clustering methods to cluster food groups, then compared them and used the most accurate clustering method. Our aim was to group similar foods together based on their characteristics. After clustering, we utilized target values from the Reference Daily Intakes data set and computed food nutrients based on the common household measures to optimize the selection of foods for a meal. We aimed to find the ideal combination of 3 or 4 foods that would meet the desired nutritional requirements and create a balanced meal.
 
+# Files
+
+1. **NutritionNuts.ipynb** - Desktop Application
+2. **Nutrition.ipynb** - Data Analysis and Unsupervised Learning Methods
 
 
