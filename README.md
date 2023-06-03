@@ -1,6 +1,7 @@
 # NutritionNuts
 
 by Amaris Williams, Madelyn Cruz, Jakeah Phifer
+Mentor: Evelyn Huszar
 
 Using USDA's Food and Nutrient Database, we built this project which allows a user to input a food item, and the program spits out a few suggestions for side dishes that would make a balanced meal. 
 
