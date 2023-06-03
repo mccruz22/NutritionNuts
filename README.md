@@ -8,11 +8,11 @@ In the README, we describe the data gathering process, the preprocessing and cle
 
 # Table of Contents
 
-1. [Project Goals](https://github.com/mccruz22/NutritionNuts/edit/main/README.md#project-goals)
-2. [Preprocessing and cleanup](https://github.com/mccruz22/NutritionNuts/edit/main/README.md#preprocessing-and-cleanup)
-3. [Installation](https://github.com/mccruz22/NutritionNuts/edit/main/README.md#installation)
-4. [Approach](https://github.com/mccruz22/NutritionNuts/edit/main/README.md#approach)
-5. [Files](https://github.com/mccruz22/NutritionNuts/edit/main/README.md#files)
+1. [Project Goals](https://github.com/mccruz22/NutritionNuts#project-goals)
+2. [Preprocessing and cleanup](https://github.com/mccruz22/NutritionNuts#preprocessing-and-cleanup)
+3. [Installation](https://github.com/mccruz22/NutritionNuts#installation)
+4. [Approach](https://github.com/mccruz22/NutritionNuts#approach)
+5. [Files](https://github.com/mccruz22/NutritionNuts#files)
 
 # Project Goals
 The goal of this project is to provide end users with an easy to use tool that can help them plan meals and have a healthy diet.
