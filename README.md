@@ -18,7 +18,9 @@ We filled all blank fields with a value of ‘0’, removed all unnecessary nutr
 
 # Installation
 
-This desktop application uses pyqt. Install `pyqt6` (for pip, pip install pyqt6)
+This desktop application uses pyqt. Install `pyqt6` (for pip, pip install pyqt6).
+
+<div> Icons made by <a href="https://www.flaticon.com/authors/pause08" title="Pause08"> Pause08 </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>
 
 # Approach
 
